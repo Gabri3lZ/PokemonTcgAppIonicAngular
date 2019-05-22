@@ -1,0 +1,8 @@
+{
+  "name": "PokemonTcgAppIonicAngular",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "6ee43e39"
+}
